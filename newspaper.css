@@ -1,0 +1,74 @@
+.fontfam{
+    font-size: 92pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    
+}
+.bgstyle{
+    background-color: firebrick;
+    font-size: 18pt;
+    color: white;
+    font-weight: 300;
+    font-style:italic;
+}
+.bottomright {
+    position:absolute;
+    bottom:5px;
+    right: 16px;
+    font-size: 18px;
+  }
+.jumbotron{
+    height: 500px;
+    position: relative;
+}
+   .jumbotron b {
+    display: block;
+    color:white;
+    font-size: 20px;
+    padding-top:  300px;
+    padding-left: 450px;
+    
+  }
+  
+
+  .numbercircle{
+      border-radius: 50%;
+      width: 36px;
+      height:36px;
+      padding: 5px;
+      background: black;
+      border:2px solid black;
+      color:white;
+      text-align: center;
+      font:6pt Arial,sans-serif;
+      margin-left: auto;
+    
+
+  }
+  
+  .top-left
+{
+position: absolute;
+top: -6px;
+right:300px;
+background-color: firebrick;
+    font-size: 15pt;
+    color: white;
+    font-weight: 300;
+    font-style:italic;
+  }
+  .bottom-right{
+  position: absolute;
+bottom:650px;
+right:30px;
+  }
+   .jumbotron btright{
+    position: absolute;
+    bottom:650px;
+    right:30px;
+   }
+   
+    
+    
+  
+  
